@@ -1,4 +1,3 @@
-#change
 from random import randint
 import pyperclip
 import sys
